@@ -320,7 +320,6 @@ ol {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   cursor: pointer;
-  text-underline-offset: 3px;
 }
 
 .content__card-link:active {
